@@ -1,7 +1,9 @@
 πEngine Technical Documentation
 Nightly Build 11.04.2025-21:30 | GPL-3.0
 Commit: 3f14159a265 (Vulkan-render branch)
-
+git add piengine_logo.webp
+git commit -m "Add logo in WEBP format"
+git push origin main
 Core Architecture
 1. Platform Layer
 python
